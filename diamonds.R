@@ -10,3 +10,6 @@ price_cut <- diamonds %>%
             count_e = length(color[color == 'E']),
             color_j = length(color[color == 'J']))
 
+# testing
+
+?head()
